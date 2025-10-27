@@ -4,3 +4,5 @@ data/*
 .env
 *.env
 sample_data/
+sample_data/
+drive/
